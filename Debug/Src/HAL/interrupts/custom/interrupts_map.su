@@ -1,0 +1,3 @@
+interrupts_map.c:27:6:HAL_UART1_IRQ	0	static
+interrupts_map.c:34:6:HAL_UART2_IRQ	0	static
+interrupts_map.c:41:6:EXTI0_1_IRQHandler	0	static

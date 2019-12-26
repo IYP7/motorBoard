@@ -1,0 +1,6 @@
+CircularBuffer.c:14:6:CreateFIFO	0	static
+CircularBuffer.c:23:6:ResetFIFO	0	static
+CircularBuffer.c:30:9:GetFIFOByte	8	static
+CircularBuffer.c:42:6:AddFIFOByte	0	static
+CircularBuffer.c:54:10:GetFIFOPendingBytes	0	static
+CircularBuffer.c:59:10:GetFIFOFreeBytes	0	static

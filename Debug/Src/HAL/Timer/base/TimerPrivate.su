@@ -1,0 +1,5 @@
+TimerPrivate.c:10:6:initTimerPwm	0	static
+TimerPrivate.c:15:6:startTimerPwm	0	static
+TimerPrivate.c:20:6:enableTimerClockPwm	8	static
+TimerPrivate.c:33:6:getTimerClock	0	static
+TimerPrivate.c:98:6:calculatePrescAndPeriod	8	static

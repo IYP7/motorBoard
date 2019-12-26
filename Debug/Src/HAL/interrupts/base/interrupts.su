@@ -1,0 +1,3 @@
+interrupts.c:14:6:interruptsInit	16	static
+interrupts.c:28:6:interruptsStart	16	static
+interrupts.c:46:6:interruptsStop	16	static
